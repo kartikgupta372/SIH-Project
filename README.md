@@ -18,6 +18,7 @@ Plan Till Internal Hackathon
 Created a logic in which it will take input the no of cars from the junction (all 4 direction) and will generate a 4 cycle of signal with timings. 
 
 # ALOK
+UI design of both the user and authority is done.
 
 # Anshul
 
